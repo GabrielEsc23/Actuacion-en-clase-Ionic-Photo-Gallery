@@ -1,3 +1,27 @@
+# 📱 Taller 2 - Aplicaciones Móviles  
+## 📌 Sistema de Captura y Gestión de Imágenes
+
+---
+
+## 📖 Descripción del proyecto
+Este proyecto consiste en el desarrollo de una aplicación móvil híbrida utilizando Ionic Framework junto con Angular.  
+La aplicación permite al usuario interactuar con diferentes funcionalidades como la generación de alertas, captura de fotografías mediante la cámara del dispositivo y visualización de imágenes en formato de galería.
+
+Además, se integró Capacitor para ejecutar la aplicación en dispositivos Android, permitiendo el acceso a funcionalidades nativas como la cámara y el almacenamiento.
+
+---
+
+## 🎯 Objetivo
+Desarrollar una aplicación móvil funcional que permita aplicar los conocimientos adquiridos sobre Ionic y Angular, incluyendo interacción con el usuario, uso de hardware del dispositivo y despliegue en entorno móvil.
+
+---
+
+## 👨‍💻 Integrantes
+- Nicolás Chiguano  
+- Gabriel Escobar  
+
+---
+
 ## 📸 Evidencias de funcionamiento
 
 ### 🏠 Pantalla principal (Tab1 - Alerta)
